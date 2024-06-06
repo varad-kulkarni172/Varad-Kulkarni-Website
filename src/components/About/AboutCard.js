@@ -28,7 +28,7 @@ function AboutCard() {
             </li>
           </ul>
 
-          <p style={{ color: "rgb(155 126 172)" }}>
+          <p style={{ color: "#6892B2" }}>
             "If you never try; You'll never know"{" "}
           </p>
           <footer className="blockquote-footer">Varad</footer>
